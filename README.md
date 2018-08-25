@@ -1,10 +1,6 @@
 # PR2
 MuJoCo Models for Personal Robot 2 (PR2)
 
-
-# Fetch
-Mujoco Models for Fetch Robot
-
 # Environments 
 
 pr2.xml           |  pr2_arm.xml            
